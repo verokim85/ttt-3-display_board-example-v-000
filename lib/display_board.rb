@@ -1,4 +1,4 @@
-def display_board(a, b)
+def display_board
   "   ", "|"   ", "|", "   "
   "-----------"
   "   ", "|"   ", "|", "   "
