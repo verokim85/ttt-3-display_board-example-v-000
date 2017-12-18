@@ -6,3 +6,5 @@ def display_board
   "   ", "|"   ", "|", "   "
   "-----------"
 end
+
+return display_board
