@@ -7,4 +7,4 @@ b =  "-----------"
   "-----------"
 end
 
-display_board
+display_board(a, b)
