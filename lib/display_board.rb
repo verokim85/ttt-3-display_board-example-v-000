@@ -1,10 +1,10 @@
 def display_board
-  puts "   ", "|"   ", "|", "   "
-  puts "-----------"
-  puts "   ", "|"   ", "|", "   "
-  puts "-----------"
-  puts "   ", "|"   ", "|", "   "
-  puts "-----------"
+  print "   ", "|"   ", "|", "   "
+  print "-----------"
+  print "   ", "|"   ", "|", "   "
+  print "-----------"
+  print "   ", "|"   ", "|", "   "
+  print "-----------"
 end
 
 display_board
